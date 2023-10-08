@@ -5,6 +5,22 @@
 >
 ># `Server Running`
 
+apt-get update
+
+apt-get upgrade
+
+git clone https://github.com/imvickykumar999/Host-DarkWeb-on-Android
+
+mv Host-DarkWeb-on-Android HostDarkWeb
+
+cd HostDarkWeb
+
+chmod +x *
+
+bash HostOnion
+
+cd web
+
 <table>
 <tr>
 <td><img src="https://github.com/imvickykumar999/Host-DarkWeb-on-Android/assets/50515418/1bbda067-758e-43f5-b697-afa11e3ea9b0" alt="3"></td>
