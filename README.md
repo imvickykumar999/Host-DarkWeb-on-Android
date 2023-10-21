@@ -5,21 +5,25 @@
 >
 ># `Run Server` *on* [`Termux App`](https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share) 
 
-      apt-get update
-      
-      apt-get upgrade
-      
-      git clone https://github.com/imvickykumar999/Host-DarkWeb-on-Android
-      
-      mv Host-DarkWeb-on-Android HostDarkWeb
-      
-      cd HostDarkWeb
-      
-      chmod +x *
-      
-      bash HostOnion
-      
-      cd web
+```bash
+apt-get update
+
+apt-get upgrade
+
+git clone https://github.com/imvickykumar999/Host-DarkWeb-on-Android
+
+mv Host-DarkWeb-on-Android HostDarkWeb
+
+cd HostDarkWeb
+
+chmod +x *
+
+bash HostOnion
+
+cd web
+
+rm -rf folder-name
+```
 
 <table>
 <tr>
