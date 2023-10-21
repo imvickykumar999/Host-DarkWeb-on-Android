@@ -20,9 +20,9 @@ chmod +x *
 
 bash HostOnion
 
-cd web
+cd phishing/netflix
 
-rm -rf folder-name
+rm -rf HostDarkWeb
 ```
 
 <table>
