@@ -25,13 +25,13 @@ chmod +x *
 
 bash UploadWeb
 
-cd web
+web
 
 bash HostOnion
-
-# to remove folder when it's not empty.
-rm -rf HostDarkWeb
 ```
+
+    # to remove folder when it's not empty.
+    rm -rf HostDarkWeb
 
 <br>
 
